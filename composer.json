@@ -1,0 +1,14 @@
+{
+    "name": "pjean/traversable-operators",
+    "description": "A library that provide operators that allow operations on traversable objects as if they were a stream of data.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul-Willy Jean",
+            "email": "paulwillyjean@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
